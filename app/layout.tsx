@@ -16,7 +16,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "latte tax",
-  description: "The latte tax is the price to pay for flow state.",
+  description: "The latte tax is the price one must pay for a routine, a break, or for some focus.",
 };
 
 export default function RootLayout({
